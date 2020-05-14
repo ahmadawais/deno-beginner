@@ -41,7 +41,6 @@ deno completions bash > /usr/local/etc/bash_completion.d/deno.bash
 source /usr/local/etc/bash_completion.d/deno.bash
 ```
 
-
 See [deno install documentation](https://github.com/denoland/deno_install) for more installation options.
 
 ## Documentation
