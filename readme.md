@@ -14,20 +14,6 @@ A secure runtime for JavaScript and TypeScript.
 - Has built-in utilities like a dependency inspector (deno info) and a code formatter (deno fmt).
 - Has a set of reviewed (audited) standard modules that are guaranteed to work with Deno: deno.land/std
 
-## Install
-
-With Shell:
-
-```sh
-curl -fsSL https://deno.land/x/install/install.sh | sh
-```
-
-With Homebrew:
-
-```sh
-brew install deno
-```
-
 ## Deno For Beginners Course
 
 [Learn deno][d] by example. In this free crash course, [Awais](https://twitter.com/MrAhmadAwais/) will teach you what is Deno, how is Deno different than Node.js, and together you'll build three simple projects with deno. Not sure why I wrote that in 3rd person. 😆
