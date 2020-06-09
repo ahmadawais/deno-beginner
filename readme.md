@@ -1,4 +1,8 @@
-# Deno
+[![Deno](./.github/denobeginner.com.jpg)][d]
+
+# Learn Deno
+
+> Learn Deno with my free video course at [Deno Beginner][d].
 
 A secure runtime for JavaScript and TypeScript.
 
@@ -24,35 +28,56 @@ With Homebrew:
 brew install deno
 ```
 
-### Deno Completions
+## Deno For Beginners Course
 
-You can generate completion script for your shell using the deno completions <shell> command. The command outputs to stdout so you should redirect it to an appropriate file.
+[Learn deno][d] by example. In this free crash course, [Awais](https://twitter.com/MrAhmadAwais/) will teach you what is Deno, how is Deno different than Node.js, and together you'll build three simple projects with deno. Not sure why I wrote that in 3rd person. 😆
 
-The supported shells are:
+[![Deno](https://dev-to-uploads.s3.amazonaws.com/i/jjj14b8d73adryxhzdfc.png)][d]
 
-- zsh
-- bash
-- fish
-- powershell
-- elvish
+_Caution: Shameless plug ahead! Support my work._ ↓
 
-```sh
-deno completions bash > /usr/local/etc/bash_completion.d/deno.bash
-source /usr/local/etc/bash_completion.d/deno.bash
-```
+> - [🚀&nbsp;&nbsp; VSCode.pro Power User Coursre][v] →
+> - [📟&nbsp;&nbsp; Build Node.js CLIs Automation][n] →
 
-See [deno install documentation](https://github.com/denoland/deno_install) for more installation options.
+## Course Contents
 
-## Documentation
+- ✅&nbsp;&nbsp; ACCESS: All Modules
+- ✅&nbsp;&nbsp; VIDEOS: Every Course Video
+- ✅&nbsp;&nbsp; EXAMPLES: Over 3 Example Projects
+- 📺&nbsp;&nbsp; MODULE #1: Introduction to Deno
+- 📺&nbsp;&nbsp; MODULE #2: Deno vs Node
+- 📺&nbsp;&nbsp; MODULE #3: Deno: A fun tip
+- 📺&nbsp;&nbsp; MODULE #4: Deno Core
+- 📺&nbsp;&nbsp; MODULE #5: Installing Deno
+- 📺&nbsp;&nbsp; MODULE #6: Deno CLI Review
+- 📺&nbsp;&nbsp; MODULE #7: Deno with VSCode
+- 📺&nbsp;&nbsp; MODULE #8: Deno CLI Help: Run
+- 📺&nbsp;&nbsp; MODULE #9: Project #1: Hello Deno
+- 📺&nbsp;&nbsp; MODULE #10: Project #2: Deno `cat`
+- 📺&nbsp;&nbsp; MODULE #11: Project #3: Deno Server
+- 📺&nbsp;&nbsp; MODULE #12: Deno.Land: Tools & Docs
+- 📺&nbsp;&nbsp; MODULE #13: Deploy a Deno Website
+- 📺&nbsp;&nbsp; MODULE #14: What's Next with Deno
 
-- Website: [deno.land](https://deno.land/)
-- [Runtime Documentation](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts)
-- [Standard Library](https://deno.land/std)
-- [Third Party Modules](https://deno.land/x)
-- [Manual - General documentation](https://deno.land/manual)
 
-## 1: Hello World
+### [Free: Sign up & Watch Now](https://DenoBeginner.com/?utm_source=dev.to&utm_medium=referral&utm_campaign=Launch%20Post) →
 
-```sh
-deno run https://deno.land/std/examples/welcome.ts
-```
+[![DenoBeginner](https://dev-to-uploads.s3.amazonaws.com/i/fu5h69i71xprywtz5jw1.jpg)][d]
+
+[![Deno](https://dev-to-uploads.s3.amazonaws.com/i/jjj14b8d73adryxhzdfc.png)][d]
+
+<br>
+
+[![👌](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png)](./../../)
+
+## Sponsor
+
+Me ([Ahmad Awais](https://twitter.com/mrahmadawais/)) and my incredible wife ([Maedah Batool](https://twitter.com/MaedahBatool/)) are two engineers who fell in love with open source and then with each other. You can read more [about me here](https://ahmadawais.com/about). If you or your company use any of my projects or like what I’m doing then consider backing me. I'm in this for the long run. An open-source developer advocate.
+
+[![Ahmad on Twitter](https://img.shields.io/twitter/follow/mrahmadawais.svg?style=social&label=Follow%20@MrAhmadAwais)](https://twitter.com/mrahmadawais/)
+
+[![Ahmad on Twitter](https://raw.githubusercontent.com/ahmadawais/stuff/master/sponsor/sponsor.jpg)](https://github.com/AhmadAwais/sponsor)
+
+[v]: https://VSCode.pro/?utm_source=dev.to&utm_medium=referral&utm_campaign=Launch%20Post
+[n]: https://NodeCLI.com/?utm_source=dev.to&utm_medium=referral&utm_campaign=Launch%20Post
+[d]: https://denobeginner.com/?utm_source=github.com&utm_medium=referral&utm_campaign=Learn%20Deno
